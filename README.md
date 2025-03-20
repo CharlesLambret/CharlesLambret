@@ -5,8 +5,4 @@
 - 🌱 J'apprends actuellement Java et le C++
 - 🐈‍⬛ J'adore les chats
 
-### Stats 📊
-
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=CharlesLambret&show_icons=true&theme=radical)
-
 ![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=CharlesLambret&layout=compact&theme=radical)
